@@ -1,0 +1,12 @@
+h_hid: 3, hid_size: 512, mbsz: 128, per_epoch: 2.062176
+h_hid: 3, hid_size: 512, mbsz: 256, per_epoch: 1.205441
+h_hid: 3, hid_size: 512, mbsz: 512, per_epoch: 0.704872
+h_hid: 3, hid_size: 512, mbsz: 1024, per_epoch: 0.428628
+h_hid: 3, hid_size: 1024, mbsz: 128, per_epoch: 2.211377
+h_hid: 3, hid_size: 1024, mbsz: 256, per_epoch: 1.263964
+h_hid: 3, hid_size: 1024, mbsz: 512, per_epoch: 0.772693
+h_hid: 3, hid_size: 1024, mbsz: 1024, per_epoch: 0.565328
+h_hid: 3, hid_size: 2048, mbsz: 128, per_epoch: 3.479298
+h_hid: 3, hid_size: 2048, mbsz: 256, per_epoch: 2.201311
+h_hid: 3, hid_size: 2048, mbsz: 512, per_epoch: 1.668573
+h_hid: 3, hid_size: 2048, mbsz: 1024, per_epoch: 1.334702
